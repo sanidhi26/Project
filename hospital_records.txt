@@ -1,0 +1,7 @@
+Type: InPatient
+Patient ID: 26
+Patient Name: sanvi
+Patient Age: 28
+Hospital Stay: 17 days
+Total Bill: Rs. 5100
+------------------------
